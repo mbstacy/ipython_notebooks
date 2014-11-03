@@ -1,0 +1,38 @@
+{
+ "metadata": {
+  "name": "USGS Data Sources"
+ },
+ "nbformat": 3,
+ "nbformat_minor": 0,
+ "worksheets": [
+  {
+   "cells": [
+    {
+     "cell_type": "markdown",
+     "metadata": {},
+     "source": [
+      "# Oklahoma Water Survey #\n",
+      "\n",
+      "## Source USGS ##\n",
+      "\n",
+      "### Parameters ###\n",
+      "* [All_html](http://nwis.waterdata.usgs.gov/usa/nwis/pmcodes?radio_pm_search=param_group&pm_group=All+--+include+all+parameter+groups&pm_search=&casrn_search=&srsname_search=&format=html_table&show=parameter_group_nm&show=parameter_nm&show=casrn&show=srsname&show=parameter_units) HTML\n",
+      "* [Post submission page for file download](http://nwis.waterdata.usgs.gov/usa/nwis/pmcodes)\n",
+      "\n",
+      "### Sites ###\n",
+      "* [Oklahoma Sites](http://waterservices.usgs.gov/nwis/site/?format=mapper&stateCd=ok&siteOutput=expanded&seriesCatalogOutput=true&outputDataTypeCd=all) XML"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [],
+     "language": "python",
+     "metadata": {},
+     "outputs": []
+    }
+   ],
+   "metadata": {}
+  }
+ ]
+}
